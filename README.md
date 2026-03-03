@@ -1,4 +1,4 @@
-<img width="1000" height="478" alt="image" src="https://github.com/user-attachments/assets/32a52c4e-8405-4f36-af47-85515e7da70d" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/32a52c4e-8405-4f36-af47-85515e7da70d" />
 
 ## Hi there 👋 I'm Nikita Ahlawat, - Data Scientist
 
