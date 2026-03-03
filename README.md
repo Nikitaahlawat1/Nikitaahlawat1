@@ -21,7 +21,7 @@ I enjoy building reproducible analytical workflows, improving data quality, and 
 - Data cleaning, preprocessing, pipeline design
 
 ### Visualisation
-- Power BI, Tableau, Qlik Sense/QlikView  
+- Power BI, Qlik Sense/QlikView  
 - Interactive dashboards, KPI reporting
 
 ### Soft Skills
