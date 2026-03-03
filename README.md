@@ -1,6 +1,6 @@
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/32a52c4e-8405-4f36-af47-85515e7da70d" />
 
-## Hi there 👋 I'm Nikita Ahlawat, - Data Scientist
+## Hi there 👋 I'm Nikita Ahlawat
 
 I am a Data Scientist with a Master’s in Data Science and a diverse background across analytics, business intelligence, and technology operations. I specialise in turning complex data into predictive models, insights, and clear narratives that inform decision-making.
 My experience spans machine learning, data engineering, visualisation, and cross-functional collaboration—working with stakeholders from operational teams through to business leaders.
